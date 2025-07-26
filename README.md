@@ -4,7 +4,7 @@ This is just convenient wrapper for [UnityNativeFilePicker](https://github.com/y
 
 It allows user to select file and export the file to the device storage.
 
-I just saved this for myself as a separate tool.
+The author of this plugin claims that it only works for Android and iOS. I tested it on Windows and it works.
 
 
 ## Demo
