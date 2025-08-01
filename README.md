@@ -8,7 +8,7 @@ The author of this plugin claims that it only works for Android and iOS. I teste
 
 
 ## Demo
-
+You can run apk on Android or run project on Unity version 2022.3.61f1.
 
 ## Installation
 Import UnityNativeFilePicker from [GitHub](https://github.com/yasirkula/UnityNativeFilePicker) or [AssetStore](https://assetstore.unity.com/packages/tools/integration/native-file-picker-for-android-ios-173238).
